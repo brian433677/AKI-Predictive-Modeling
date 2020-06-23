@@ -9,7 +9,7 @@ The purpose of this project is to use existing patient's information to create a
 
 The workflow of this project is as follow:
 
--Create a comprehensive demographics of patients based on MIMIC-iii, including age of death, discharge, and ethnicitiy.
+-Create a comprehensive demographics of patients based on MIMIC-iii, including age of death and discharge.
 
 -Train a random forest classifier then utilizes gradient boosting through XGBoost
 
