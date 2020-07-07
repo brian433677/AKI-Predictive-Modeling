@@ -1,4 +1,4 @@
-**AKI 1-Year Mortality Predictive Modeling**
+**AKI 2-Year Mortality Predictive Modeling**
 
 
 This project aims to create a 2-year mortality predictive model for AKI(Acute Kidney Injury) patients using XGBoost (a Machine Learning Algorithm), on a public database called MIMIC-III, which comprises of deidentified health-related data associated with over 40,000 patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012.
