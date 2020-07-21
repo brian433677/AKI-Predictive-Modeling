@@ -13,7 +13,7 @@ The workflow of this project is as follow:
 
 -Create tables to fit patient's laboratory results during each admission using PostgreSQL
 
--Add important measurements and indications that are highly relevant to mortality rates in AKI patients through connection to PostgreSQL using psycopg2
+-Add important measurements and indications that are highly relevant to patients' demographics through connection to PostgreSQL using psycopg2
 
 -Train a model through neural network
 
